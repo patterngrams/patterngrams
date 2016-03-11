@@ -1,0 +1,56 @@
+body {
+	background-color: #ecf0eb;
+	padding-left: 30px;
+	margin-top: 50px;
+	padding-right: 30px;
+}
+
+.name {
+	font-family: 'Lobster Two', cursive;
+	color: #705f55;
+}
+
+.site {
+	color: #615b53;
+}
+
+
+.select {
+	color: #a89a8c;
+}
+
+.site,.select {
+	font-family: 'Chivo' , sans-serif;
+}
+
+.instructions,.choose,.after,.content {
+	clear: left;
+}
+
+.button {
+	padding-top: 30px;
+}
+
+
+.main {
+	padding: 10px;
+}
+
+.after {
+	display: none;
+	font-weight: 900;
+}
+
+/* floral classes*/
+.mellow {
+	background-image: url(../images/flora_16b.jpg);
+}
+
+.blues {
+	background-image: url(../images/flora_75c.jpg);
+}
+
+.rosey {
+	background-image: url(../images/flora_56a.jpg);
+}
+
